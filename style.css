@@ -3,3 +3,8 @@ body {
     font-family: 'Cherry Bomb One';
     background-color: lightblue;
  }
+
+#image {
+    width: 50%;
+    height: auto;
+}
